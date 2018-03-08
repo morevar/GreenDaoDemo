@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GreenDaoDemo</string>
+    <string name="insert">Insert</string>
+    <string name="query">Query</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="clear">Clear</string>
+</resources>
